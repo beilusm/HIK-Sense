@@ -6,11 +6,11 @@
   "releaseDate": "2026-10-31",
   "minSdkVersion": 26,
   "changelog": [
-    "新增应用内更新，支持自动检查、手动更新、忽略版本和六线路下载。",
+    "新增应用内更新。",
     "记忆 AI 模式，新增跟随系统、浅色和深色主题。",
     "连接相机时回读发射率。",
     "全屏增加清除标注、录屏计时，并修正入口按钮裁切。",
-    "优化二维码日志，优先保留后端与异常线索，减少常规日志干扰。"
+    "优化二维码日志。"
   ],
   "downloadUrl": "https://github.com/beilusm/HIK-Sense/releases/download/v1.0.33/HIK-Sense-1.0.33-v49-release.apk",
   "releaseUrl": "https://github.com/beilusm/HIK-Sense/releases/tag/v1.0.33",
