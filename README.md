@@ -4,19 +4,15 @@
 
 本仓库仅用于发布 App 安装包。
 
-## 最新版本：1.0.33（v49）
+## 最新版本：1.0.34（v50）
 
 发布日期：2026-10-31
 
-[下载最新安装包](https://github.com/beilusm/HIK-Sense/releases/download/v1.0.33/HIK-Sense-1.0.33-v49-release.apk) · [最新发布](https://github.com/beilusm/HIK-Sense/releases/latest) · [历史版本](https://github.com/beilusm/HIK-Sense/releases) · [更新日志](CHANGELOG.md)
+[下载最新安装包](https://github.com/beilusm/HIK-Sense/releases/download/v1.0.34/HIK-Sense-1.0.34-v50-release.apk) · [最新发布](https://github.com/beilusm/HIK-Sense/releases/latest) · [历史版本](https://github.com/beilusm/HIK-Sense/releases) · [更新日志](CHANGELOG.md)
 
 更新日志：
 
-- 新增应用内更新。
-- 记忆 AI 模式，新增跟随系统、浅色和深色主题。
-- 连接相机时回读发射率。
-- 全屏增加清除标注、录屏计时，并修正入口按钮裁切。
-- 优化二维码日志。
+已修复已知问题
 
 ## 软件检查更新的固定接口
 
