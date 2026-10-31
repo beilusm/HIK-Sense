@@ -8,8 +8,26 @@
 
 发布日期：2026-10-31
 
-[下载安装包](https://github.com/beilusm/HIK-Sense/releases/download/app/HIK-Sense-1.0.32-v48-release.apk) · [发布页面](https://github.com/beilusm/HIK-Sense/releases/tag/app)
+[下载最新安装包](https://github.com/beilusm/HIK-Sense/releases/download/v1.0.32/HIK-Sense-1.0.32-v48-release.apk) · [最新发布](https://github.com/beilusm/HIK-Sense/releases/latest) · [历史版本](https://github.com/beilusm/HIK-Sense/releases) · [更新日志](CHANGELOG.md)
 
 更新日志：
 
 - 加入 QR Code 日志记录。
+
+## 软件检查更新的固定接口
+
+软件始终请求同一个地址，即可取得最新正式版、更新日志与安装包下载地址：
+
+```text
+https://github.com/beilusm/HIK-Sense/releases/latest/download/latest.json
+```
+
+字段说明和后续发布流程见[发布规范](docs/releasing.md)。客户端以整数 `versionCode` 判断是否需要更新。
+
+GitHub 标准最新版 API：
+
+```text
+https://api.github.com/repos/beilusm/HIK-Sense/releases/latest
+```
+
+每个正式版本使用独立标签 `v<versionName>` 和独立 Release；安装包仅作为对应 Release 附件发布。
