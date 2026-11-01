@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "com.hikvision.thermal4117",
+  "versionName": "1.0.35",
+  "versionCode": 51,
+  "releaseDate": "2026-11-01",
+  "minSdkVersion": 26,
+  "changelog": [
+    "修复已知问题"
+  ],
+  "downloadUrl": "https://github.com/beilusm/HIK-Sense/releases/download/v1.0.35/HIK-Sense-1.0.35-v51-release.apk",
+  "releaseUrl": "https://github.com/beilusm/HIK-Sense/releases/tag/v1.0.35",
+  "apkSize": 159155903
+}
