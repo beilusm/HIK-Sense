@@ -4,15 +4,17 @@
 
 本仓库仅用于发布 App 安装包。
 
-## 最新版本：1.0.35（v51）
+## 最新版本：1.0.36（v52）
 
-发布日期：2026-11-01
+发布日期：2026-11-21
 
-[下载最新安装包](https://github.com/beilusm/HIK-Sense/releases/download/v1.0.35/HIK-Sense-1.0.35-v51-release.apk) · [最新发布](https://github.com/beilusm/HIK-Sense/releases/latest) · [历史版本](https://github.com/beilusm/HIK-Sense/releases) · [更新日志](CHANGELOG.md)
+[下载最新安装包](https://github.com/beilusm/HIK-Sense/releases/download/v1.0.36/HIK-Sense-1.0.36-v52-release.apk) · [最新发布](https://github.com/beilusm/HIK-Sense/releases/latest) · [历史版本](https://github.com/beilusm/HIK-Sense/releases) · [更新日志](CHANGELOG.md)
 
 更新日志：
 
-修复已知问题
+- 热像预览与拍照录像支持双指缩放。
+- 优化横竖屏的取景与测温布局
+- 修复已知问题
 
 ## 软件检查更新的固定接口
 
